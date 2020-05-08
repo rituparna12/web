@@ -1,5 +1,8 @@
-# This is README file
+# GITHUB
 --------------------
 
-### In branch
-Changes for example branch
+## Learning github
+
+It is __FUN__
+
+
